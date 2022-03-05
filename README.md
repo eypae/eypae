@@ -7,5 +7,5 @@
 ### Currently
 - 🌱 learning **Web Development (Express, Node, React)**
 - 🌱 learning **text mining methodologies/web analytics**
-- 🌱 learning **Machine Learning with python (scikit, tensorflow, seaborn, Matplotlib etc.**
+- 🌱 learning **Machine Learning with python (scikit, tensorflow, seaborn, Matplotlib etc.)**
 
